@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_1\ConcatString\ConcatString\bin\Debug\ConcatString.exe.config
+D:\C-Homeworks\Homeworks_1\ConcatString\ConcatString\bin\Debug\ConcatString.exe
+D:\C-Homeworks\Homeworks_1\ConcatString\ConcatString\bin\Debug\ConcatString.pdb
+D:\C-Homeworks\Homeworks_1\ConcatString\ConcatString\obj\Debug\ConcatString.exe
+D:\C-Homeworks\Homeworks_1\ConcatString\ConcatString\obj\Debug\ConcatString.pdb

@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\bin\Debug\Int-Sum.exe.config
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\bin\Debug\Int-Sum.exe
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\bin\Debug\Int-Sum.pdb
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\obj\Debug\Int-Sum.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\obj\Debug\Int-Sum.exe
+D:\C-Homeworks\Homeworks_1\Int-Sum\Int-Sum\obj\Debug\Int-Sum.pdb

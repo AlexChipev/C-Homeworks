@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\bin\Debug\BonusPoints-Variant-2.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\bin\Debug\BonusPoints-Variant-2.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\bin\Debug\BonusPoints-Variant-2.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\obj\Debug\BonusPoints-Variant-2.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\obj\Debug\BonusPoints-Variant-2.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints-Variant-2\obj\Debug\BonusPoints-Variant-2.pdb

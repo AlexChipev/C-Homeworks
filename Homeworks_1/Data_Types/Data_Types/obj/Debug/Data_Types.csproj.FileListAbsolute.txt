@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\bin\Debug\Data_Types.exe.config
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\bin\Debug\Data_Types.exe
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\bin\Debug\Data_Types.pdb
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\obj\Debug\Data_Types.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\obj\Debug\Data_Types.exe
+D:\C-Homeworks\Homeworks_2\Data_Types\Data_Types\obj\Debug\Data_Types.pdb

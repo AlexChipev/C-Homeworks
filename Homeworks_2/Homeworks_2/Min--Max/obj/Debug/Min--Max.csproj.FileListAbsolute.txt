@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Min--Max\bin\Debug\Min--Max.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Min--Max\bin\Debug\Min--Max.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Min--Max\bin\Debug\Min--Max.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Min--Max\obj\Debug\Min--Max.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Min--Max\obj\Debug\Min--Max.pdb

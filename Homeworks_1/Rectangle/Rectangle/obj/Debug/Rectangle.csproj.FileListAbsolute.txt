@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_1\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+D:\C-Homeworks\Homeworks_1\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+D:\C-Homeworks\Homeworks_1\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\C-Homeworks\Homeworks_1\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+D:\C-Homeworks\Homeworks_1\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_1\DevideResidual\DevideResidual\bin\Debug\DevideResidual.exe.config
+D:\C-Homeworks\Homeworks_1\DevideResidual\DevideResidual\bin\Debug\DevideResidual.exe
+D:\C-Homeworks\Homeworks_1\DevideResidual\DevideResidual\bin\Debug\DevideResidual.pdb
+D:\C-Homeworks\Homeworks_1\DevideResidual\DevideResidual\obj\Debug\DevideResidual.exe
+D:\C-Homeworks\Homeworks_1\DevideResidual\DevideResidual\obj\Debug\DevideResidual.pdb

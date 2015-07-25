@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\bin\Debug\Bor4e.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\bin\Debug\Bor4e.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\bin\Debug\Bor4e.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\obj\Debug\Bor4e.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\obj\Debug\Bor4e.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Bor4e\obj\Debug\Bor4e.pdb

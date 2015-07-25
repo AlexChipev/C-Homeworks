@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\bin\Debug\StringCheck.exe.config
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\bin\Debug\StringCheck.exe
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\bin\Debug\StringCheck.pdb
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\obj\Debug\StringCheck.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\obj\Debug\StringCheck.exe
+D:\C-Homeworks\Homeworks_1\StringCheck\StringCheck\obj\Debug\StringCheck.pdb

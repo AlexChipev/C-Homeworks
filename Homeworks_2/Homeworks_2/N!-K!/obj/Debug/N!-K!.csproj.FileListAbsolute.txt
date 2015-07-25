@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\bin\Debug\N!-K!.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\bin\Debug\N!-K!.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\bin\Debug\N!-K!.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\obj\Debug\N!-K!.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\obj\Debug\N!-K!.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\N!-K!\obj\Debug\N!-K!.csprojResolveAssemblyReference.cache

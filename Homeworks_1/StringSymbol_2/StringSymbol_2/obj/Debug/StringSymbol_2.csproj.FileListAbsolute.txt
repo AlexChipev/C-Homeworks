@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_1\StringSymbol_2\StringSymbol_2\bin\Debug\StringSymbol_2.exe.config
+D:\C-Homeworks\Homeworks_1\StringSymbol_2\StringSymbol_2\bin\Debug\StringSymbol_2.exe
+D:\C-Homeworks\Homeworks_1\StringSymbol_2\StringSymbol_2\bin\Debug\StringSymbol_2.pdb
+D:\C-Homeworks\Homeworks_1\StringSymbol_2\StringSymbol_2\obj\Debug\StringSymbol_2.exe
+D:\C-Homeworks\Homeworks_1\StringSymbol_2\StringSymbol_2\obj\Debug\StringSymbol_2.pdb

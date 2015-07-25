@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\bin\Debug\Devider_Biggest.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\bin\Debug\Devider_Biggest.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\bin\Debug\Devider_Biggest.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\obj\Debug\Devider_Biggest.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\obj\Debug\Devider_Biggest.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Devider_Biggest\obj\Debug\Devider_Biggest.pdb

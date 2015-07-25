@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\bin\Debug\StringSymbol.exe.config
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\bin\Debug\StringSymbol.exe
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\bin\Debug\StringSymbol.pdb
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\obj\Debug\StringSymbol.csprojResolveAssemblyReference.cache
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\obj\Debug\StringSymbol.exe
+D:\C-Homeworks\Homeworks_1\StringSymbol\StringSymbol\obj\Debug\StringSymbol.pdb

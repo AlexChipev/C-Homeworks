@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints\bin\Debug\BonusPoints.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints\bin\Debug\BonusPoints.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints\bin\Debug\BonusPoints.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints\obj\Debug\BonusPoints.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\BonusPoints\obj\Debug\BonusPoints.pdb

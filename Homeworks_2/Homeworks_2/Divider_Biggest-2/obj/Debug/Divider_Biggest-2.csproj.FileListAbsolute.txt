@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\bin\Debug\Divider_Biggest-2.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\bin\Debug\Divider_Biggest-2.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\bin\Debug\Divider_Biggest-2.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\obj\Debug\Divider_Biggest-2.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\obj\Debug\Divider_Biggest-2.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\Divider_Biggest-2\obj\Debug\Divider_Biggest-2.csprojResolveAssemblyReference.cache

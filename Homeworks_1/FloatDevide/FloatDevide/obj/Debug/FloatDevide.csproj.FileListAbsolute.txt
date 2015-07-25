@@ -1,0 +1,5 @@
+D:\C-Homeworks\Homeworks_1\FloatDevide\FloatDevide\bin\Debug\FloatDevide.exe.config
+D:\C-Homeworks\Homeworks_1\FloatDevide\FloatDevide\bin\Debug\FloatDevide.exe
+D:\C-Homeworks\Homeworks_1\FloatDevide\FloatDevide\bin\Debug\FloatDevide.pdb
+D:\C-Homeworks\Homeworks_1\FloatDevide\FloatDevide\obj\Debug\FloatDevide.exe
+D:\C-Homeworks\Homeworks_1\FloatDevide\FloatDevide\obj\Debug\FloatDevide.pdb

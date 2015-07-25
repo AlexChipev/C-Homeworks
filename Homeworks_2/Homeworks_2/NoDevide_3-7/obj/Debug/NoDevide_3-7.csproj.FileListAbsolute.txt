@@ -1,0 +1,6 @@
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\bin\Debug\NoDevide_3-7.exe.config
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\bin\Debug\NoDevide_3-7.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\bin\Debug\NoDevide_3-7.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\obj\Debug\NoDevide_3-7.exe
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\obj\Debug\NoDevide_3-7.pdb
+D:\C-Homeworks\Homeworks_2\Homeworks_2\NoDevide_3-7\obj\Debug\NoDevide_3-7.csprojResolveAssemblyReference.cache
