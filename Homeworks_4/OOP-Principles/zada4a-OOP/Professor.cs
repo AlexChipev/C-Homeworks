@@ -35,7 +35,7 @@ namespace zada4a_OOP
         {
             this.exams = "Ability to hold exams";
             Console.WriteLine("{0}", exams);
-            ObjectCount++;
+            
         }
         public override void HomeworksCheck()
         {

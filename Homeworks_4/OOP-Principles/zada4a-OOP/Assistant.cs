@@ -29,7 +29,6 @@ namespace zada4a_OOP
         {
             this.check = "Ability to check exams";
             Console.WriteLine("{0}", check);
-            ObjectCount++;
         }
         public Assistant(string name, string lastName, int workExperience, string university, bool major)
             : base(name, lastName, workExperience, university)
