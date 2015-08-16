@@ -19,12 +19,12 @@ namespace _3_zada4a
                 int first = a.Next(1, 10);
                 int second = b.Next(5, 15);
                 int third = c.Next(15, 25);
-                Console.WriteLine("{0}", randomParams(first, second, third));
+                Console.WriteLine("{0}", RandomParams(first, second, third));
             }
             Console.WriteLine();
         }
 
-        private static int randomParams(int a, int b, int c)
+        private static int RandomParams(int a, int b, int c)
         {
             int result = a * b * c;
             return (result);
