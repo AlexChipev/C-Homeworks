@@ -1,0 +1,2 @@
+Bulgaria|Sofia|2000000 | 
+Germany|Berlin|12000000 | 
